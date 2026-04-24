@@ -29,7 +29,7 @@
 
 - 🔭 Working on **Decentralized Energy Systems & EV Charging Optimization**
 - 🧠 Developing **Causality-Aware AI Models**
-- ⚙️ Designing **Metaheuristic Algorithms (TFO, PSO)**
+- ⚙️ Designing **Metaheuristic Algorithms (TFO)**
 - 🌱 Exploring **Blockchain + Optimization + AI Systems**
 - 💬 Ask me about **Energy Systems, AI, Optimization**
 
